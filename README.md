@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Data Engineer II at EXL.<br> Always working on Data Engineering Projects.<br>🌱 I’m currently learning about GenAI using LangChain and VectorDB.<br>👯 I’m looking to collaborate on Data Engineering Projects.<br>🤝 I’m looking for help with Data Exploration and Insights<br>💬 Ask me about Data and Data Engineering<br>⚡ Fun fact : Data Engineer often are called "Plumbers" because they are responsible for designing, building, and maintaining the pipelines
+🔭 Data Engineer II at EXL.<br>🔭 Always working on Data Engineering Projects.<br>🌱 I’m currently learning about GenAI using LangChain and VectorDB.<br>👯 I’m looking to collaborate on Data Engineering Projects.<br>🤝 I’m looking for help with Data Exploration and Insights<br>💬 Ask me about Data and Data Engineering<br>⚡ Fun fact : Data Engineer often are called "Plumbers" because they are responsible for designing, building, and maintaining the pipelines
 
 
 ## 🌐 Socials:
